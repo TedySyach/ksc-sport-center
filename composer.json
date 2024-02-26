@@ -1,0 +1,8 @@
+{
+    "require": {
+        "spipu/html2pdf": "^5.2",
+        "midtrans/midtrans-php": "^2.5",
+        "firebase/php-jwt": "^6.4",
+        "phpoffice/phpspreadsheet": "^1.25"
+    }
+}
